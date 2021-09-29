@@ -1,0 +1,5 @@
+﻿  Lab_03_3.cpp
+C:\Users\Discordia\source\repos\pr_3.3\pr_3.3\Lab_03_3.cpp(24,14): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Discordia\source\repos\pr_3.3\pr_3.3\Lab_03_3.cpp(27,11): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Discordia\source\repos\pr_3.3\pr_3.3\Lab_03_3.cpp(30,11): warning C4804: '<=': unsafe use of type 'bool' in operation
+  pr_3.3.vcxproj -> C:\Users\Discordia\source\repos\pr_3.3\Debug\pr_3.3.exe
